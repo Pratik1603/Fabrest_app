@@ -1,10 +1,10 @@
 # fabrest
 
-A new Flutter project.
+Forest of Fabulous Items
 
-## Getting Started
+## About My app
 
-This project is a starting point for a Flutter application.
+It is an fully functioning and user friendly e commerce app.
 
 A few resources to get you started if this is your first Flutter project:
 

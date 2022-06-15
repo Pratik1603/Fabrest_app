@@ -1,10 +1,8 @@
-# fabrest
+<h1 align="center" font-size="40px">fabrest</h1>
+<h3 align="center">Forest of Fabulous Items</h3>
 
-Forest of Fabulous Items
 
-## About My app
 
-It is an fully functioning and user friendly e commerce app.
 
 A few resources to get you started if this is your first Flutter project:
 

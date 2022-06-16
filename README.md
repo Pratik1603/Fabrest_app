@@ -1,13 +1,16 @@
 <h1 align="center" font-size="40px">fabrest</h1>
 <h3 align="center">Forest of Fabulous Items</h3>
 
-**It is a user friendly e commerce app:-**<br>
--**Fully Functioning**<br>
--**Secure with Authentication**<br><br>
+<img align="right" alt="Coding" width="200" height="280" src="https://user-images.githubusercontent.com/98035119/174002893-9cf347b2-cd7f-4416-8460-d58717841f79.png"/><br><br>
 
-**THIS APP IS MADE BY EFFECTIVE USE OF FIREBASE DATABASE AND BLOC PATTERN**<br>
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/98035119/174002893-9cf347b2-cd7f-4416-8460-d58717841f79.png" width="270" height="400" style="margin-right: 80"/>
+
+
+- 🤝 **It is a user friendly e commerce app**
+
+- 🌱 **Fully Functioning**
+
+- 🔒 **Secure with Authentication**
+
 <h3 align="center">Amazing user interface🤩🤩</h3><br>
 
 <p align="center">

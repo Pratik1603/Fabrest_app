@@ -6,6 +6,8 @@
 -**Secure with Authentication**<br><br>
 
 **THIS APP IS MADE BY EFFECTIVE USE OF FIREBASE DATABASE AND BLOC PATTERN**<br>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/98035119/174002893-9cf347b2-cd7f-4416-8460-d58717841f79.png" width="270" height="400" style="margin-right: 80"/>
 <h3 align="center">Amazing user interface🤩🤩</h3><br>
 
 <p align="center">
